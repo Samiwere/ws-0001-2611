@@ -31,6 +31,11 @@ email-clipped-doc-sources from students:
 
 email-clipped-images:
 
+| | | |
+| :---: | :---: | :---: |
+| ![](../assets/345bc3a915b4856419505feff76db9db.jpg)| ![](../assets/72072b0cd1bb21f64f428488e3403916.jpg)| ![](../assets/75bc46d642d2cd2516282659f1a53bfb.jpg) |
+| ![](../assets/86c19662537116a5049e66dd7c912436.jpg)| ![](../assets/528d73e1b67bbec1bf300fed03d06dec.jpg) | ![](../assets/9f4e96487df8833514a67ec706ee81c5.jpg)
+
 ![](../assets/345bc3a915b4856419505feff76db9db.jpg) ![](../assets/72072b0cd1bb21f64f428488e3403916.jpg) ![](../assets/75bc46d642d2cd2516282659f1a53bfb.jpg)
 ![](../assets/86c19662537116a5049e66dd7c912436.jpg) ![](../assets/528d73e1b67bbec1bf300fed03d06dec.jpg) ![](../assets/9f4e96487df8833514a67ec706ee81c5.jpg) ![](../assets/4cf50f3774c869b1b252336a12e87e4d.jpg)
 ![](../assets/2cf585218250a437e335ce903f9d8470.jpg) ![](../assets/897c8422e07ae2f3708d1b0cd6b0b933.jpg)![](../assets/d983d0a9d4c9b7d999b8636e7aca38de.jpg) ![](../assets/3c65e233548ad0db6c625fe49bbc77a8.jpg) ![](../assets/3393a45266960b41f4701cd8d9b14f47.jpg) ![](../assets/cb8240c07b8823fe32e7ed8295abce6b.webp) ![](../assets/b6119360823f0b36c0adafb9d182f7ac.jpeg)
