@@ -16,7 +16,7 @@ related monthly nugget moc and ref material:
 
 ### Details: Loose and Bold Paint Style
 
-> "I like the **bold patches of color** which depict the sky , the land.. **unambiguously but without detail..."**  - lStudent Email 
+> "I like the **bold patches of color** which depict the sky , the land.. **unambiguously but without detail..."**  - Student Email 
 
 ---
 

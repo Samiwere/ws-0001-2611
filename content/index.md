@@ -15,7 +15,13 @@
 
 ### Inspiration  Guides and Resources
 
-- Nuggets : [[pub-nug-moc-261111]]
+- Featured Nugget: [[nug-uc-mame-fu-2611]]
+
+- Featured Article: [[is-jubl-pope-261118.md]]
+
+- Featured Art History Slide Shows: [[ws-xc-wk1-grd-261121.jpg]]
+
+- All Nuggets : [[pub-nug-moc-261111]]
 
 - Expanded Nuggets (Substacked):  
 
@@ -26,8 +32,6 @@
 - Student Spotlight: 
 
 - Art History Spotlight:
-
-- Art History Slide Shows:
 
 - Shared Articles and Knowledge:
 
