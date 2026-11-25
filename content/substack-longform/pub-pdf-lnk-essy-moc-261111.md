@@ -1,0 +1,1 @@
+1. [Energy Readings of Memory Portrait Paintings.pdf](file:///C:%5Cbosque%20propretary%20heavy%20docs%5CPub%20Essays%5CEnergy%20Readings%20of%20Memory%20Portrait%20Paintings.pdf)
