@@ -1,7 +1,9 @@
 
 **Workshop Description**: 
 
-> Motivation and engagement in art making practice keyed towards lifelong learning and growth. ws-xc0001. The flagship xchange workshop. 
+> Motivation and engagement in art making practice keyed towards lifelong learning and growth. ws-xc0001. 
+> 
+> The flagship xchange workshop. 
 
 - **Facilitator:** Sam Payne
 
@@ -32,7 +34,7 @@
 
 ---
 
-### **Pre-Workshop Prompt** [[nug-xc-ws-gr-261119]]
+### **Pre-Workshop Prompt** :  [[nug-xc-ws-gr-261119]]
 
 > Student submissions: 
 - [ ] Kat
@@ -52,14 +54,15 @@ Summary of student submissions: [[ws-xc0001-gr-rs-prmpt1-2611]]
 - [ ] Jenny 
 - [x] Judith 
 
-** Sam sent email xchanges Wednesday 261124**
+** Sam sent email xchanges Thursday  261124** He is running late this week. Next week I will try to have it to you by Wednesday! 
+
 - [x] Sam
 
 **Email xchange completed:**
 - [ ] Kat
-- [x] Sunny 
+- [ ] Sunny 
 - [ ] Jenny 
-- [x] Judith 
+- [ ] Judith 
 
 ---
 

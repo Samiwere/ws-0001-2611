@@ -7,9 +7,6 @@ student email source name: katand, jencal, sunrye, melcan,
 date  of email source: 2026-11-19
 related monthly nuggetmock: "[[pub-nug-moc-261111]]"
 ---
-[[pub-nug-moc-261111]]
-
-
 ### Painting Prompt
 (Single Still Life Painting)
 
