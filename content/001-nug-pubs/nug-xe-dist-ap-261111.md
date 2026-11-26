@@ -1,6 +1,13 @@
-[[se-dinsta-2611]]
-[[pub-nug-moc-261111]]
-[[nug-xe-dinsta-ph-261123]]
+---
+related worshop project: Landscape Workshop
+note-type: nugget-xc
+topics discussed: composition, interesting
+previous publications: substack title
+student email source name: Dina Stansbury= dinsta
+date  of email source:
+related monthly nuggetmock:
+related nugget thread: "[[nug-xe-dist-ap-261111]]"
+---
 
 ### Awkwardness in Composition and Honesty
 

@@ -1,13 +1,14 @@
 
 **Workshop Description**: 
 
-> The flagship xchange workshop. Alternative methods for motivation and engagement in art making practice keyed towards lifelong learning and growth. ws-xc0001
+> Motivation and engagement in art making practice keyed towards lifelong learning and growth. ws-xc0001. The flagship xchange workshop. 
 
 - **Facilitator:** Sam Payne
 
 - **Student Group:** Kat, Judith, Jenny, Sunny
 
 - **Zoom Link :** 
+- **Dates**: November and December, 2026
 
 - **Workshop Calendar**: [[ws-xc0001-cal-261111]]
 
@@ -17,22 +18,17 @@
 
 - Featured Nugget: [[nug-xe-dist-ap-261111]]
 
-- Featured Article: [[is-jubl-pope-261118.md]]
+- Featured Article: [[is-jubl-pope-261118]]
 
-- Featured Art History Slide Shows: [[ws-xc-wk1-grd-261121.jpg]]
-
-- All Nuggets : [[pub-nug-moc-261111]] 
+- Featured Art History Slide Shows: [[ws-xc-wk1-grd-261121]]
 
 - Student Board : [[ws-xc0001-subs-261126]]
 
 - Sam's Board: [[ws-xc-0001-spw-261126]]
 
-- Student Spotlight: [[sw-judblaz-001-261119.jpg]]
+- Student Spotlight: [[sw-judbla-001-261119]]
 
-- Art History Spotlight:  [[h-landscape-gallace.webp]] 
-
-- Shared Articles and Knowledge:
-- Expanded Nuggets (Substacked articles by SP): 
+- Art History Spotlight:  [[h-landscape-gallace]] 
 
 ---
 

@@ -2,7 +2,7 @@
 
 The following nugget is with regards to this article:
 
-[[is-jubl-pope-261118.md]]
+[[is-jubl-pope-261118]]
 
 ### Homogenization and Art as Machine
 Quotes from the article: 

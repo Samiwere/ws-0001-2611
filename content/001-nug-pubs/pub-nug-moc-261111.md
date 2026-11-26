@@ -22,7 +22,7 @@ email-clipped-nuggets:
 
 email-clipped-doc-sources from students:
 
-[[is-jubl-pope-261118.md]]
+[[is-jubl-pope-261118]]
 [[is-boex-thgo-alle-2611]]
 
 email-clipped-images:
