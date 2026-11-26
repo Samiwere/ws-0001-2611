@@ -27,10 +27,12 @@ Do  you think there are things that can't be described with words?
 
 ---
 
-"I suppose I didn't engage in discussion of collage because I'm not sure that I think/plan/ruminate about my work, so I doubt that I would have words for it.  I create when I need to express my processing of events." -Student Email
+#### **Examples from student emails of this topic:**
 
-"**It’s suggestive**, **and then your eye can wander and take in space and shape and color without language and narrative and the categorization that ends curiosit**y."
+"... because I'm not sure that I think/plan/ruminate about my work, so I doubt that I would have words for it.  I create when I need to express my processing of events." -Student Email
 
-Painting as a liminal space - whether the experience or the act of making it :
+"The painting is suggestive, and then your eye can wander and take in space and shape and color without language and narrative and the categorization that ends curiosity." - Student Email
 
-I **especially like painting and looking at paintings when I want to quiet that logic part of my brain and open up to new ways of thinking or being without thinking. I go for runs in the morning at 6:30am and it’s still dark these days and the streets are mostly empty (the lone dogwalkers that may pass by are obscured by darkness) and it feels like moving through an interstitial space between the days and between thingness. Like, I dont have to be defined yet and the concerns of the day are still primordial. Anyway, that feels relevant about my experience now and how I see this painting** - Student Email
+**Painting as a liminal space - whether the experience or the act of making it :**
+
+"I especially like painting and looking at paintings when I want to quiet that logic part of my brain and open up to new ways of thinking or being without thinking. I go for runs in the morning at 6:30am and it’s still dark these days and the streets are mostly empty (the lone dogwalkers that may pass by are obscured by darkness) and it feels like moving through an interstitial space between the days and between thingness. Like, I dont have to be defined yet and the concerns of the day are still primordial. Anyway, that feels relevant about my experience now and how I see this painting" - Student Email

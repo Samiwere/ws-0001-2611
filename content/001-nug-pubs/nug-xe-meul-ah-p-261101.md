@@ -1,7 +1,8 @@
 
 [[pub-nug-moc-261111]]
 
-![](../assets/c4e2d2bea02e794a51b908c1d046e164.jpeg)  ![](../assets/cedd2762c3bb3f0af2e37bf9e701c412.jpeg)
+The student artwork from this correspondence is not available for sharing.
+![](../assets/7ed296e1ef2b92d9f62fa830487b316e.jpeg)  ![](../assets/8f52664856863d3af318123b534eb086.jpeg)
 
 The history of painting is built with this idea. The [[Egyptian paintings]] are locked in tombs. They were not for public viewing. There are theories they were for the dead to witness. Who are paintings for? This is a profound and amazing question. There is a beautiful art work from meso-american history that was found buried. There are theories that it was periodically unburied to witness. 
 

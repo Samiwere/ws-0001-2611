@@ -15,25 +15,24 @@
 
 ### Inspiration  Guides and Resources
 
-- Featured Nugget: [[nug-uc-mame-fu-2611]]
+- Featured Nugget: [[nug-xe-dist-ap-261111]]
 
 - Featured Article: [[is-jubl-pope-261118.md]]
 
 - Featured Art History Slide Shows: [[ws-xc-wk1-grd-261121.jpg]]
 
-- All Nuggets : [[pub-nug-moc-261111]]
+- All Nuggets : [[pub-nug-moc-261111]] 
 
-- Expanded Nuggets (Substacked):  
+- Student Board : [[ws-xc0001-subs-261126]]
 
-- Student Board : 
+- Sam's Board: [[ws-xc-0001-spw-261126]]
 
-- Sam's Board:
+- Student Spotlight: [[sw-judblaz-001-261119.jpg]]
 
-- Student Spotlight: 
-
-- Art History Spotlight:
+- Art History Spotlight:  [[h-landscape-gallace.webp]] 
 
 - Shared Articles and Knowledge:
+- Expanded Nuggets (Substacked articles by SP): 
 
 ---
 
@@ -44,6 +43,8 @@
 - [x] Sunny 
 - [ ] Jenny 
 - [x] Judith 
+
+Summary of student submissions: [[ws-xc0001-gr-rs-prmpt1-2611]]
 
 ---
 
